@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500&display=swap');
+/* --- Import Components stylesheets --- */
+@import url("components/container.css");
+@import url("components/button.css");
 
 title {
   background-color: rgb(231, 209, 209);
